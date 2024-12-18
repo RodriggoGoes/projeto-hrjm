@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "hospitalDB",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,8 +8,11 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
+    "express-validator": "^7.2.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.7.1",
     "sequelize": "^6.37.4"
-  }
+  },
+  "repository": "https://github.com/RodriggoGoes/projeto-hrjm.git",
+  "author": "rodriggogoes <rodriggo_goes@hotmail.com>"
 }
